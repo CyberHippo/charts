@@ -1027,6 +1027,7 @@ serviceAccount:
   annotations:
     iam.gke.io/gcp-service-account: "<<MY-ROLE-NAME>>@<<MY-PROJECT-NAME>>.iam.gserviceaccount.com"
 ```
+
 <hr>
 </details>
 
